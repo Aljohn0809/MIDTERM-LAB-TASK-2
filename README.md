@@ -21,11 +21,11 @@
 
 
   ### After Cleaning
-<img src="images/Clean Data.png" alt="alt text" width="600">
-<img src="images/Clean Data.png" alt="alt text" width="600">
-<img src="images/Clean Data.png" alt="alt text" width="600">
-<img src="images/Clean Data.png" alt="alt text" width="600">
-<img src="images/Clean Data.png" alt="alt text" width="600">
+<img src="images/After Cleaning data 1.png" alt="alt text" width="600">
+<img src="images/After Cleaning data 2.png" alt="alt text" width="600">
+<img src="images/After Cleaning data 3.png" alt="alt text" width="600">
+<img src="images/Clean data 1.png" alt="alt text" width="600">
+
 
 
 
@@ -46,23 +46,23 @@
   ### Grouped Tables
 
     **Salary by Role Type Table**
-<img src="images/Clean Data.png" alt="alt text" width="600">
+<img src="images/Sal by Role Type.png" alt="alt text" width="600">
 
 
 
     **Salary by Size Table**
- <img src="images/Clean Data.png" alt="alt text" width="600">
+ <img src="images/Sal by Size Type.png" alt="alt text" width="600">
 
 
 
     **Salary by State Table**
-<img src="images/Clean Data.png" alt="alt text" width="600">
+<img src="images/Sal by State Type.png" alt="alt text" width="600">
 
 
 
     **States (Mapping) Table**
 
-<img src="images/Clean Data.png" alt="alt text" width="600">
+<img src="images/Sal by Mapping Type .png" alt="alt text" width="600">
 
 
   ## Step 3 - Query Dependencies
@@ -71,5 +71,5 @@
   - Double check whether they are properly linked appropriately.
 
   ### Image of Query Dependencies 
- <img src="images/Clean Data.png" alt="alt text" width="600">
+ <img src="images/Image of Query Dependencies.png" alt="alt text" width="600">
 
