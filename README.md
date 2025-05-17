@@ -11,7 +11,7 @@
 - Remove unnecessary columns to avoid redundancy (Company Name ratings, extra descriptions).
 - Save the M Language to a notepad.
   
-  ### Before Cleaning  
+  ## Before Cleaning  
 
 <img src="images/Before Cleaning data 1.png" alt="alt text" width="600">
 <img src="images/Before CLeaning data 2.png" alt="alt text" width="600">
@@ -20,7 +20,7 @@
 
 
 
-  ### After Cleaning
+  ## After Cleaning
   
 <img src="images/After Cleaning data 1.png" alt="alt text" width="600">
 <img src="images/After Cleaning data 2.png" alt="alt text" width="600">
