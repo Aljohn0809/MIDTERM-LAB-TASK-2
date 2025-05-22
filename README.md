@@ -20,8 +20,7 @@
 
 
 
-   ## After Cleaning 
-  
+    **After Cleaning**  
 <img src="images/After Cleaning data 1.png" alt="alt text" width="600">
 <img src="images/After Cleaning data 2.png" alt="alt text" width="600">
 <img src="images/After Cleaning data 3.png" alt="alt text" width="600">
