@@ -69,6 +69,8 @@
   - After all the previous steps, check the Query Dependencies in PowerQuery by going to view and selecting the Query Dependencies.
   - Double check whether they are properly linked appropriately.
 
-  ### Image of Query Dependencies 
+
+  **Image of Query Dependencies** 
+  
  <img src="images/Image of Query Dependencies.png" alt="alt text" width="600">
 
