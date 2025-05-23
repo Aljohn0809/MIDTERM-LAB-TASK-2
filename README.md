@@ -65,7 +65,7 @@
 <img src="images/Sal by Mapping Type .png" alt="alt text" width="600">
 
 
-  ## Step 3 - Query Dependencies
+  ### Step 3 - Query Dependencies
 
   - After all the previous steps, check the Query Dependencies in PowerQuery by going to view and selecting the Query Dependencies.
   - Double check whether they are properly linked appropriately.
